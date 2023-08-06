@@ -1,6 +1,11 @@
 # quizzed
 
 A new Flutter project.
+A Basic App to understand the fundamentals of Flutter and Dart.
+
+![Landing Screen](/assets/readme-images/Screenshot_20230806-071258.png)
+![Questions Screen](/assets/readme-images/Screenshot_20230806-071304.png)
+![Results Screen](/assets/readme-images/Screenshot_20230806-071325.png)
 
 ## Getting Started
 
